@@ -37,3 +37,9 @@ build/*
 
 # OS X stuff
 ._*
+/cooccurrence.bin
+/cooccurrence.shuf.bin
+/text8
+/vectors.bin
+/vectors.txt
+/vocab.txt
